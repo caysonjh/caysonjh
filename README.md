@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Cayson Hamilton
+- 👀 I’m interested in Medical Physics
+- 🌱 I’m currently learning how to run molecular dynamics simulations of DNA using lammps and moltemplate
